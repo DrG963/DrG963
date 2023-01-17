@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrG963
-- 👀 I’m interested in ... Putting random stuff I write on github
-- 🌱 I’m currently learning ... C++ and C#
+- 👀 I’m interested in ... Writing productive and useful code for businesses. 
+- 🌱 I’m currently learning ... Machine Learning and AI
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ...
 
